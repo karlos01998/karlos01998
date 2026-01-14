@@ -1,16 +1,32 @@
-## Hi there 👋
+### 👋 Olá, me chamo João Carlos!
 
-<!--
-**karlos01998/karlos01998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub 🚀
 
-Here are some ideas to get you started:
+- 🎓 Estudante de **Engenharia de Software** na Estácio
+- 💻 Foco em **Back-end, Java e POO**
+- ⚙️ Atualmente estudando **Spring Boot** e aprofundando em **Git/GitHub**
+- 🔍 Buscando minha primeira oportunidade de **estágio** na área de tecnologia
+- ⚡ Curioso, resiliente e apaixonado por transformar problemas em soluções com código
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/karlos01998/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+---
+
+*"A persistência é o caminho do êxito."* 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=karlos01998&color=blue)
