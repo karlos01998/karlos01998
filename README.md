@@ -4,7 +4,6 @@ Bem-vindo ao meu perfil no GitHub 🚀
 
 - 🎓 Estudante de **Engenharia de Software** na Estácio
 - 💻 Foco em **Back-end, Java e POO**
-- ⚙️ Atualmente estudando **Spring Boot** e aprofundando em **Git/GitHub**
 - 🔍 Buscando minha primeira oportunidade de **estágio** na área de tecnologia
 - ⚡ Curioso, resiliente e apaixonado por transformar problemas em soluções com código
 
