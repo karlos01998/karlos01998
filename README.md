@@ -1,31 +1,46 @@
-### 👋 Olá, me chamo João Carlos!
+# Olá, eu sou o João Carlos! 👋
 
-Bem-vindo ao meu perfil no GitHub 🚀
-
-- 🎓 Estudante de **Engenharia de Software** na Estácio
-- 💻 Foco em **Back-end, Java e POO**
-- 🔍 Buscando minha primeira oportunidade de **estágio** na área de tecnologia
-- ⚡ Curioso, resiliente e apaixonado por transformar problemas em soluções com código
+Engenheiro de Software em formação com foco no desenvolvimento de soluções robustas de Backend utilizando a plataforma Java. Busco aplicar as melhores práticas de Arquitetura de Software (MVC), Clean Code e Orientação a Objetos no desenvolvimento de sistemas escaláveis.
 
 ---
 
-### 🛠 Skills
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tecnologias e Ferramentas
+
+* **Linguagem Principal:** Java (JDK 17/21)
+* **Paradigmas & Padrões:** Orientação a Objetos (POO), Arquitetura MVC, Data Transfer Objects (DTO/Records)
+* **Ferramentas & IDEs:** IntelliJ IDEA, NetBeans, Git & GitHub
+* **Ambiente de Desenvolvimento:** Windows Terminal / PowerShell 7
 
 ---
 
+### 🚀 Projetos em Destaque
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/karlos01998/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+#### 🏦 [AgathaBank](https://github.com/karlos01998/agathabank)
+Um simulador de sistema bancário em console desenvolvido em Java puro para consolidar conceitos avançados de Engenharia de Software.
+* **Destaques Técnicos:** Aplicação rigorosa do padrão **MVC** (Model-View-Controller) para desacoplamento de camadas, uso de **Herança e Polimorfismo** para gerenciar contas Corrente e Poupança, e implementação de **Java Records (DTO)** para transporte seguro de dados.
+
+#### 🥊 Simulador de Combate (MMA/UEC)
+Projeto focado em lógica algorítmica e estruturas condicionais, simulando dinâmicas de combate através de estruturas de controle em Java.
+* **Destaques Técnicos:** Manipulação de lógica booleana e integração de regras de negócio.
 
 ---
 
-*"A persistência é o caminho do êxito."* 🚀
+### 📚 Educação e Certificações
 
-![Profile Views](https://komarev.com/ghpvc/?username=karlos01998&color=blue)
+* **Graduação:** Engenharia de Software – Centro Universitário Estácio (2º Semestre)
+* **Certificações Extracurriculares:**
+    * Lógica de Programação e Algoritmos (*Curso em Vídeo*)
+    * Programação Orientada a Objetos com Java (*Curso em Vídeo*)
+
+---
+
+### 🎯 Sobre Mim
+
+Após uma trajetória sólida de 14 anos em papéis operacionais e de atendimento, decidi canalizar minha resiliência, capacidade de resolução de problemas e foco em processos para a Engenharia de Software. Sou um entusiasta de hardware de alta performance e uso meu dia a dia de estudos para dominar o funcionamento interno da JVM e da memória Heap.
+
+---
+
+### 🤝 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlos01998/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karlos01998)
