@@ -8,14 +8,19 @@ Engenheiro de Software em formação com foco no desenvolvimento de soluções r
 
 * **Linguagem Principal:** Java (JDK 17/21)
 * **Paradigmas & Padrões:** Orientação a Objetos (POO), Arquitetura MVC, Data Transfer Objects (DTO/Records)
-* **Ferramentas & IDEs:** IntelliJ IDEA, NetBeans, Git & GitHub
+* **Ferramentas & IDEs:**
+  
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
 * **Ambiente de Desenvolvimento:** Windows Terminal / PowerShell 7
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-#### 🏦 [AgathaBank](https://github.com/karlos01998/agathabank)
+#### 🏦 [AgathaBank](https://github.com/karlos01998/agathabank) 🚧 *Projeto em Construção*
 Um simulador de sistema bancário em console desenvolvido em Java puro para consolidar conceitos avançados de Engenharia de Software.
 * **Destaques Técnicos:** Aplicação rigorosa do padrão **MVC** (Model-View-Controller) para desacoplamento de camadas, uso de **Herança e Polimorfismo** para gerenciar contas Corrente e Poupança, e implementação de **Java Records (DTO)** para transporte seguro de dados.
 
