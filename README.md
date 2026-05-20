@@ -32,13 +32,7 @@ Projeto focado em lógica algorítmica e estruturas condicionais, simulando din�
     * Lógica de Programação e Algoritmos (*Curso em Vídeo*)
     * Programação Orientada a Objetos com Java (*Curso em Vídeo*)
 
----
 
-### 🎯 Sobre Mim
-
-Após uma trajetória sólida de 14 anos em papéis operacionais e de atendimento, decidi canalizar minha resiliência, capacidade de resolução de problemas e foco em processos para a Engenharia de Software. Sou um entusiasta de hardware de alta performance e uso meu dia a dia de estudos para dominar o funcionamento interno da JVM e da memória Heap.
-
----
 
 ### 🤝 Conecte-se Comigo
 
